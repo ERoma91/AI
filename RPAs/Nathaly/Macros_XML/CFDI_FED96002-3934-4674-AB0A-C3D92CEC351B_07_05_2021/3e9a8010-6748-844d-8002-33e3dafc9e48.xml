@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" Version="3.3" Serie="FM" Folio="1169" Fecha="2021-04-19T18:18:42" Sello="X61CtfoPSixjOSAjMjvggYVeVpd7ErBrOHRSD0h5s2omfQQ8SiuopM/rFY2Lx8kMY/17fGgPb5hrx+fuYAAuOCuTKEmp+C8dWLoefdSu/pOUsmb0dx+ZYFpGj+4HhQBuNMuw6bvrTTX0f+dIz4EBh5GtZJIxjTcqcXBtTyR8L6/Pe7WGqr54I7bglNRjVml7K5iYHLKImSSNyp8ZpF9Q4JPaf8+Pqb5R6SKvDYHovq1yUpH29Q4cShqIbpQSDolD9IrCDLu0/EBSa29yorVZDAlMvss4XwopYBu8A5aF0T+RWDPzLic/5bF+RYSwnlfLFlf8UNRcz6h9qlEk7XT1wg==" FormaPago="01" NoCertificado="00001000000505762276" Certificado="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" SubTotal="1112.07" Descuento="60.43" Moneda="MXN" Total="1219.90" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="58000">
+  <cfdi:Emisor Rfc="COVM760308FV0" Nombre="MACARENA CORRAL VILLICAÑA" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="CEI010905C1A" Nombre="CENTRO DE EDUCACION INFANTIL NUEVA CHAPULTEPEC SC" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="13111304" Cantidad="74" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="FOAMY *EN PLIEGO* " ValorUnitario="7.327432" Importe="542.23" Descuento="54.22">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="488.02" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="78.0832" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111525" NoIdentificacion="7503002372067" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="ROLLO DE PAPEL AMERICA" ValorUnitario="81.896552" Importe="81.90">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="81.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.104" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60106207" Cantidad="2" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="LIMPIAPIPAS" ValorUnitario="21.551724" Importe="43.10">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="43.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.896" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141001" NoIdentificacion="7502211250494" Cantidad="2" ClaveUnidad="XPK" Unidad="PAQUETE" Descripcion="GLOBOS CARNAVAL STD 9&quot; C/ 50 PZAS SURTIDO" ValorUnitario="29.310345" Importe="58.62">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="58.62" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9.3792" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31201632" Cantidad="1" ClaveUnidad="KGM" Unidad="KILO" Descripcion="KILO DE SILICON" ValorUnitario="136.206897" Importe="136.21">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="136.21" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="21.7936" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121627" NoIdentificacion="7501174999266" Cantidad="10" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="MARCADOR PARA PINTARRON TIZAPEN BACO" ValorUnitario="8.62069" Importe="86.21">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="86.21" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.7936" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111537" NoIdentificacion="7501035112162" Cantidad="2" ClaveUnidad="XPK" Unidad="PAQUETE" Descripcion="ETIQUETAS ADHESIVAS *JANEL 00 13 BLANCO*" ValorUnitario="22.413793" Importe="44.83">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="44.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.1728" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31201500" NoIdentificacion="7501035102422" Cantidad="12" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CINTA ADHESIVA DIUREX JANEL MOD 119 12mm X 33m " ValorUnitario="5.172414" Importe="62.07" Descuento="6.21">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="55.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.9376" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122104" Cantidad="1" ClaveUnidad="XBX" Unidad="CAJA" Descripcion="CLIP CUADRITO  No. 1" ValorUnitario="14.655172" Importe="14.66">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="14.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44122107" NoIdentificacion="7502212170135" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="GRAPA *GR-5000* ESTANDAR 26/6 C/5000 PZAS" ValorUnitario="20.689655" Importe="20.69">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="20.69" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.3104" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="11162114" Cantidad="5" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="VELCRO POR METROS" ValorUnitario="4.310345" Importe="21.55">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="21.55" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.448" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="168.26">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="168.26" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="3E9A8010-6748-844D-8002-33E3DAFC9E48" FechaTimbrado="2021-04-19T18:18:43" RfcProvCertif="SCD110105654" SelloCFD="X61CtfoPSixjOSAjMjvggYVeVpd7ErBrOHRSD0h5s2omfQQ8SiuopM/rFY2Lx8kMY/17fGgPb5hrx+fuYAAuOCuTKEmp+C8dWLoefdSu/pOUsmb0dx+ZYFpGj+4HhQBuNMuw6bvrTTX0f+dIz4EBh5GtZJIxjTcqcXBtTyR8L6/Pe7WGqr54I7bglNRjVml7K5iYHLKImSSNyp8ZpF9Q4JPaf8+Pqb5R6SKvDYHovq1yUpH29Q4cShqIbpQSDolD9IrCDLu0/EBSa29yorVZDAlMvss4XwopYBu8A5aF0T+RWDPzLic/5bF+RYSwnlfLFlf8UNRcz6h9qlEk7XT1wg==" NoCertificadoSAT="00001000000502000436" SelloSAT="DODicDc9uXnewgcuAb5lwkrXMFBYKCGet8p6G+p4lDLNjp9qpJVO4V3MPk8EIxYcblp688+GLocWS8uJBp9Ee/wZeYfP9haB1avmBO5hhj81iyHvnJ2QJ+bHV9tEbQhrlzx824ZD7l2UzlKxYHPpD9xD6TWKQQimmNv6b6n1w4hAVS44m5fOCGanlqYFXnz+A36d/1yBzM8QtfBtJQJj/xNHme0g1DD0NiNpGj+IVmZZRy0FCXZY4QMpG5T/q1IoCleFaFsvaXsHLbQStuZ1YBScTz0H0WFsbz8uT/utl5v2eVY/XK0DABMvZWOEmVJwARoKjvTCw7K78aZp9/BsMw==" />
+</cfdi:Complemento></cfdi:Comprobante>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" Fecha="2021-04-15T13:27:15" Folio="16274" FormaPago="01" LugarExpedicion="58000" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000408712093" Sello="cvpH/C0WIbPTI2tVwqpv9L94UMlpF9ZsaIRl6Pjru6ieTyV3gzhkijOXKL28SH30pr+bGzNQB/SQLz0/tQ4VWwzCrZ9zforS6G5gQxo/+ehGOUovswlFA4yrfapjqht2yJgXGz3Nfl8GJN6Xx+jTLZUwDuStmoW5j6SufwnQsDKrbi44K0dzCdKJMYeDz3nKw58D+HXWyKjqYriLde+Ees6iu+TDBruKkt2XVqOp9M2VS1hT7855l+YaXslwc1SIuHSkv6KgMaMYwSi9mAxOmyo7a10GcbOzqbqsqkPJpoe/pLr1TwnuS8CY02TmbwgkX2ed53QITwuoKJDko+TRtA==" Serie="A" SubTotal="468.21" TipoCambio="1" TipoDeComprobante="I" Total="543.12" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+  <cfdi:Emisor Nombre="VERONICA AGUILAR LOPEZ" RegimenFiscal="612" Rfc="AULV740212764" />
+  <cfdi:Receptor Nombre="CENTRO DE EDUCACION INFANTIL NUEVA CHAPULTEPEC SC" Rfc="CEI010905C1A" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="44103502" ClaveUnidad="XPK" Descripcion="PASTA ENGAR PERFEX T/C 25JGOS TRANSP." Importe="114.55" Unidad="PAQUETE" ValorUnitario="114.55">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="114.55" Importe="18.33" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="44103504" ClaveUnidad="XPK" Descripcion="ARILLO DE PLASTICO 1/4 CAP 20H GBC" Importe="44.46" Unidad="PAQUETE" ValorUnitario="44.46">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="44.46" Importe="7.11" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="44103504" ClaveUnidad="XPK" Descripcion="ARILLO DE PLASTICO 1/2 CAP 90H GBC" Importe="78.30" Unidad="PAQUETE" ValorUnitario="78.30">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="78.30" Importe="12.53" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="44103504" ClaveUnidad="XPK" Descripcion="ARILLO DE PLASTICO 1 1/8 CAP 230H GBC" Importe="230.90" Unidad="PAQUETE" ValorUnitario="230.90">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="230.90" Importe="36.94" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="74.91">
+    <cfdi:Traslados>
+      <cfdi:Traslado Importe="74.91" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2021-04-15T13:27:30" NoCertificadoSAT="00001000000412961981" RfcProvCertif="FCG840618N51" SelloCFD="cvpH/C0WIbPTI2tVwqpv9L94UMlpF9ZsaIRl6Pjru6ieTyV3gzhkijOXKL28SH30pr+bGzNQB/SQLz0/tQ4VWwzCrZ9zforS6G5gQxo/+ehGOUovswlFA4yrfapjqht2yJgXGz3Nfl8GJN6Xx+jTLZUwDuStmoW5j6SufwnQsDKrbi44K0dzCdKJMYeDz3nKw58D+HXWyKjqYriLde+Ees6iu+TDBruKkt2XVqOp9M2VS1hT7855l+YaXslwc1SIuHSkv6KgMaMYwSi9mAxOmyo7a10GcbOzqbqsqkPJpoe/pLr1TwnuS8CY02TmbwgkX2ed53QITwuoKJDko+TRtA==" SelloSAT="fCNzP8BAY+qzwxDWIkV9j7GlsUcGrXGWMZO3qDjA7VVdCNNxt/4tYLAnlYTyKxA2lcajatstNjxgVW7Ji6Rx250X+reofSYJhMDBTA7IEXF8cghq0rn1gaIwLc8I1LFKEz9oeVQdkuAH6snd8sCSTDdjhEdrPHwGaDhIFIJ35Gt901dtMuieFpxbd3RSNgHekUvxpFK1/LNlndaO/Ul2hmA/S92DxufdQqWPUFIHxSQBhMRQplFFGyRUCDjAi/fAtdh+9NNxbBZ7SsI6EKCX32XP0CHzptTmKcPW3zuKCDN8i6SL/n49VEiaDIdaRYCBeKtOmzLXe68t9spSrvQRkQ==" UUID="7F195F51-A861-46F7-9B55-84CDF6C9E73C" Version="1.1" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

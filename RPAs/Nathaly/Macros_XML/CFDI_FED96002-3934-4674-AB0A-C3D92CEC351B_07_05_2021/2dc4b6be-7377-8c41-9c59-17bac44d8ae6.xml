@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" Version="3.3" Serie="FM" Folio="1194" Fecha="2021-04-23T14:29:41" Sello="O7XHrypGxNgZ/BuPsSdAmAr6iKdOSDzue3JJbzkSj/iq1Q+Xur54KYXc60Qm3ydL3Gmn7dVnnEPHMji9rN9lavWfjEO9XJTljvAi1t+dW1OMZqZGJrHKVg1x0dXGvtrmPMiktWff5SQA5NrtqGADGRbRus4qZN9li9RZxI/UTMAEIM0oEiYM5V+dULbYNojskTylEB8zdaVeFlYKx9FP2Jc50r+bKTL+JCW4YfHXKY8Gict/wKX1V38kpk6GEyv4KfCONXk3sFu60yps1cHWG9kBFjxYJ3AxTCA4sRk33+aWTUtGNpVjpfvdriRP2Jd9ue/LOOs7Z2sq9nFQu4JKkg==" FormaPago="01" NoCertificado="00001000000505762276" Certificado="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" SubTotal="410.78" Descuento="35.74" Moneda="MXN" Total="435.05" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="58000">
+  <cfdi:Emisor Rfc="COVM760308FV0" Nombre="MACARENA CORRAL VILLICAÑA" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="CEI010905C1A" Nombre="CENTRO DE EDUCACION INFANTIL NUEVA CHAPULTEPEC S.C" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="13111304" Cantidad="35" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="FOAMY *EN PLIEGO* " ValorUnitario="7.327586" Importe="256.47" Descuento="25.65">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="230.82" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="36.9312" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60141001" NoIdentificacion="7502211250494" Cantidad="1" ClaveUnidad="XPK" Unidad="PAQUETE" Descripcion="GLOBOS CARNAVAL STD 9&quot; C/ 50 PZAS SURTIDO" ValorUnitario="29.310345" Importe="29.31">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="29.31" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.6896" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111519" Cantidad="13" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="CARTULINA IRIS DE COLORES " ValorUnitario="7.758621" Importe="100.86" Descuento="10.09">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="90.77" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="14.5232" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31211904" NoIdentificacion="7501994028658" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="BROCHA PINTO 1/2&quot; P276 CERDA SINTETICA" ValorUnitario="24.137931" Importe="24.14">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="24.14" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.8624" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="60.01">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="60.01" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="2DC4B6BE-7377-8C41-9C59-17BAC44D8AE6" FechaTimbrado="2021-04-23T14:29:42" RfcProvCertif="SCD110105654" SelloCFD="O7XHrypGxNgZ/BuPsSdAmAr6iKdOSDzue3JJbzkSj/iq1Q+Xur54KYXc60Qm3ydL3Gmn7dVnnEPHMji9rN9lavWfjEO9XJTljvAi1t+dW1OMZqZGJrHKVg1x0dXGvtrmPMiktWff5SQA5NrtqGADGRbRus4qZN9li9RZxI/UTMAEIM0oEiYM5V+dULbYNojskTylEB8zdaVeFlYKx9FP2Jc50r+bKTL+JCW4YfHXKY8Gict/wKX1V38kpk6GEyv4KfCONXk3sFu60yps1cHWG9kBFjxYJ3AxTCA4sRk33+aWTUtGNpVjpfvdriRP2Jd9ue/LOOs7Z2sq9nFQu4JKkg==" NoCertificadoSAT="00001000000502000436" SelloSAT="hjcV6BYbunND6DEGnV1Nz0pyKGFAAfQ13FXoVNBbL99rjHWVOtpoICjkz76VPQuX9yGMnK05SlSKMIvLuNaRhrEiy7K5H4wiZG1zfKD3on/32MIkUiqwOS3DvbPlT18NJA4napUsODFg/vQsRWRg+SrTStreZXvmANztc/uROND0UOBFzUqIhIyD7+5yhnnrtkwzAi2lSj1tEB9fIU/cH+OEOrRpyx7jhGoKmXEc/M76fo8PcH78q9j26zcYEdr13dJg43ZqVHCxIzW47OD9KFbuXMICtlgLskYIDckIsWlPn8Az94JywMH25+Wu86DfCowvRVPGA+mOU1/WTsDi9w==" />
+</cfdi:Complemento></cfdi:Comprobante>
